@@ -1,0 +1,1 @@
+az ad sp create-for-rbac --name "erudio-api-server-curso-udemy" --role contributor --scopes /subscriptions/05ead4b2-c96e-43fa-81be-7f37290c55d1/resourceGroups/erudio-api-rest/providers/Microsoft.Web/sites/erudio-api-server-curso-udemy --sdk-auth
